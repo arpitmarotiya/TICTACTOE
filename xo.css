@@ -1,0 +1,56 @@
+
+button {
+	  margin-left:125px;
+	  height:30px;
+	  font-size:20px;
+	  background-color:#002366;
+	  color:white;
+	  border:1px solid white;
+		}	
+button:hover
+{
+	text-decoration:none;
+}
+
+#superbox {
+			width:330px; 
+			height:300px;
+			
+ 		  }
+			
+.box {
+		float:left; 
+		height:100px;
+		width:100px; 
+		font-size:90px; 
+		text-align:center;
+		border:5px solid black;
+	 }
+#turn{
+	  text-align:center;
+		width:330px;
+		max-width:330px;
+	  height:30px;
+	  font-size:20px;
+	  background-color:#002366;
+	  color:white;
+
+	  }		
+.box:hover {
+			  background-color:#d8e0ed;
+		   }
+		
+
+		
+#head {
+		
+		font-size:40px;
+	  }
+		
+a {
+	color:black;
+  }
+#main
+{
+	margin-left:10vmin;
+}
